@@ -47,6 +47,7 @@ final int canvasHeight = 600;
 String filename = "shapes_data.txt";
 File saveFile;
 
+int rectangleButtonX = 200, rectangleButtonY=20;
 void setup() {
   size(1200, 600);
   //create all Buttons for Menu
